@@ -144,9 +144,11 @@ STATS: https://www.statista.com/outlook/amo/media/worldwide
 
 SOME IDEAS AND CONCEPTS:
 
-DESO (DECENTRALIZED SOCIAL NETWORK): https://en.wikipedia.org/wiki/BitClout
+GLOBAL AD STATS: https://www.voicebooking.com/en/world-advertising-industry-spend-revenue-statistics
 
-Distributed social network: https://en.wikipedia.org/wiki/Distributed_social_network
+FORBES MEDIA STATS: https://www.forbes.com/advisor/business/social-media-statistics/
+
+MRBEAST SPENDS 1 - 1,5 millions on each video: https://www.unilad.com/celebrity/news/mrbeast-cost-per-video-168607-20240115
 
 Recommendation system: https://en.wikipedia.org/wiki/Recommender_system
 

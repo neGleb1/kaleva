@@ -1,5 +1,87 @@
 
-BEGINNING:
+OPENING:
+
+Do you know what an anchovy is? It's a small fish that you put on pizza.
+Now imagine that the company is a fisherman, and the fish is an advertisement.
+The fisherman wants to catch a fish and have a good meal.
+Tuna is difficult and expensive to catch, because it is big and strong.
+There are also small fish like anchovy.
+One anchovy is much smaller than a tuna, but if you catch them in a net, you will have a dinner.
+
+
+MEET THE KALAVERKKO (OR FISHERNET IN ENGLISH)
+
+
+PROBLEM:
+
+Digital media dominates the advertising industry.
+Every company in the world faces advertising in social media.
+Advertising with popular YouTubers can be very expensive.
+Each video of Mr. Beast costs 2 million dollars. Imagine how much advertising costs.
+Small bloggers are unreliable and ineffective.
+
+
+
+SOLUTION:
+
+I have an idea. What if we take a group of small bloggers and split the money for one ad between them.
+It is difficult for small bloggers to find advertisers, so they will be happy to receive additional income.
+In addition, a video can become trending, and then the advertising will be even more effective.
+
+
+Today there are two types of media advertising: media agencies that have contracts with big bloggers and
+advertising integrations and automatic advertising videos or banners.
+Setting up an agency and signing contracts is very expensive and time-consuming, and banners are ineffective.
+
+
+My solution combines the benefits of both approaches.
+Moreover, we decided not to limit ourselves to YouTube and create networks of bloggers from different media platforms. For example, TikTok and Twitch.
+
+
+
+
+COMPARISON
+
+BLOGGER NETWORK PROS:
+
+- BY PURCHASING A NETWORK, A COMPANY RECEIVES CONTROL OVER IT AND ACCESS TO NETWORK ANALYTICS TOOLS.
+THE OWNER CAN ALSO SET UP HIS NETWORK HIMSELF: EXPAND IT OR REDUCE IT; ADD OR REMOVE BLOGGERS.
+
+- ANALYTICAL TOOLS ALLOW YOU TO ASSESS THE BENEFIT OF ADVERTISING AND INFLUENCE ITS EFFECTIVENESS.
+
+- DIRECT INTEGRATION IS ALWAYS BETTER, THEN USUAL YOUTUBE AD.
+
+
+- IT IS IMPOSSIBLE TO SKIP OR DISABLE DIRECT INTEGRATION (FOR EXAMPLE WITH AD BLOCKING PLUGIN).
+IN OTHER WORDS, IT IS IMPOSSIBLE TO DISABLE ADVERTISING INTEGRATION IF IT WAS ORIGINALLY RECORDED WITH THE VIDEO.
+
+
+- IN OUR PRODUCT THE CLIENT CAN SET UP A NETWORK USING SEVERAL DIFFERENT PLATFORMS, FOR EXAMPLE 5 BLOGGERS FROM YOUTUBE, 5 FROM TIKTOK AND 5 MORE FROM INSTAGRAM.
+THIS FEATURE IS SIMILAR TO DIVERSIFICATION IN INVESTMENTS.
+AN INVESTOR DIVIDES THE PORTFOLIO INTO STOCKS, BONDS AND, FOR EXAMPLE, GOLD TO REDUCE RISKS.
+THUS, IF ONE OF THE MEDIA PLATFORMS SUFFERS LOSSES, OTHER PLATFORMS WILL REMAIN EFFICIENT IN ADVERTISING.
+
+
+
+YOUTUBE CONS:
+
+- BUYING ADVERTISING ON YOUTUBE YOU HAVE NO CONTROL. ANY BLOGGER WITH A NEGATIVE REPUTATION CAN HAVE A BAD INFLUENCE ON THE ADVERTISED PRODUCT.
+
+- ADVERTISING BUYER DOES NOT KNOW HOW YOUTUBE ALGORITHMS WORK.
+
+- THERE ARE FREE PROGRAMS THAT ALLOW YOU TO DISABLE ADVERTISING BANNERS AND ADVERTISING VIDEOS. PERSONALLY I USE ONE OF THEM.
+41 million downloads only in chrome: https://chromewebstore.google.com/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm
+and 9 million in firefox: https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/
+
+- ALL YOUTUBE RISKS INFLUENCE ADVERTISING.
+
+- YOUTUBE HAS BEEN SUFFERING HUGE REPUTATIONAL LOSSES RECENTLY.
+THERE HAVE BEEN A LOT OF FRAUD AND PORNOGRAPHY ADVERTISEMENTS.
+YOUTUBE HAS ALSO ENCOUNTERED A LARGE NUMBER OF BOTS IN THE COMMENTS.
+
+
+
+DIGITAL MEDIA AGENCY CONS:
 
 
 
@@ -7,5 +89,14 @@ BEGINNING:
 
 
 
-THE PROJECT NAME IS KALAVERKKO (ITS A FISHERNET IN ENGLISH)
+MARKET OPPORTUNITY:
+
+The market size is billions of dollars. This number will grow every year because digital content is consumed by every person on earth.
+Here is the number of small bloggers.
+
+So our main customers are little companies. Big companies also can choose the service, but they usually have enough resources
+to create a marketing campaign.
+
+
+BUSINESS MODEL
 

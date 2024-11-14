@@ -55,12 +55,7 @@ async function scrapeYouTubeByCategory(category) {
 
         uploadTime = parseTimeAgo(uploadTime);
 
-      videoData.push({
-        title,
-        url,
-        views,
-        uploadTime
-      });
+      videoData.push({title, url, views, uploadTime});
     } catch (error) {
       console.log('Error extracting video data:', error);
     }
@@ -75,36 +70,34 @@ scrapeYouTubeByCategory('technology');
 
 
 function parseTimeAgo(timeAgoString) {
-    const now = new Date(); // Get the current date
+    const now = new Date();
     const regex = /(\d+)\s*(day|month|year|week)s?\s*ago/;
 
     const match = timeAgoString.match(regex);
   
     if (!match) {
-      return null; // If the input doesn't match the expected format, return null
+      return null;
     }
-  
-    // Extract the number and the time unit from the match
-    const number = parseInt(match[1], 10); // The number (e.g., 12, 2)
-    const unit = match[2]; // The unit (e.g., day, week)
-  
-    // Create a new Date object and subtract the time from the current date
+
+    const number = parseInt(match[1], 10);
+    const unit = match[2];
+
     switch (unit) {
       case 'day':
-        now.setDate(now.getDate() - number); // Subtract days
+        now.setDate(now.getDate() - number);
         break;
       case 'week':
-        now.setDate(now.getDate() - number * 7); // Subtract weeks (7 days per week)
+        now.setDate(now.getDate() - number * 7);
         break;
       case 'month':
-        now.setMonth(now.getMonth() - number); // Subtract months
+        now.setMonth(now.getMonth() - number);
         break;
       case 'year':
-        now.setFullYear(now.getFullYear() - number); // Subtract years
+        now.setFullYear(now.getFullYear() - number);
         break;
     }
   
-    return now; // Return the updated date object
+    return now;
 }
 
 
